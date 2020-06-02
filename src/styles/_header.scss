@@ -1,0 +1,136 @@
+
+header {
+    background-color: var(--header_bg);
+    justify-content: space-between;
+    align-items: center;
+    /* padding: 20px 100px; */
+    height: 8%;
+    color: white;
+    width: 100%;
+
+    nav {
+        width: 90%;
+        height: 100%;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+
+        a {
+            display: flex;
+            align-items: center;
+        }
+
+        ul {
+            width: 50%;
+            height: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.9em;
+
+            li {
+                &:hover {
+                    background-color: darken($color: #333333, $amount: 2);
+                    padding: 0 1%
+                }
+            }
+
+            #lang {
+                &:hover {
+                    cursor: pointer;
+                    font-weight: 600;
+                    text-decoration: line-through;
+                }
+            }
+
+            .drop-down {
+                color: #fff;
+                border: none;
+                background-color: #333333;
+                padding: 3%;
+                height: 100%;
+                width: 100%;
+
+                &:hover {
+                    cursor: pointer;
+                }
+
+                &:focus {
+                    border: none;
+                }
+            }
+        }
+    }
+
+}
+
+
+
+
+
+.menu_item {
+    font-size: 0.9em;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu_item img {
+    padding-left: 3px;
+    margin-top: 3px;
+    height: 6px;
+    width: auto;
+}
+
+#market-icon {
+    height: 10px;
+    width: auto;
+}
+
+#logo {
+    display: flex;
+    font-size: 0.9em;
+    font-weight: 600;
+    align-items: center;
+    white-space: nowrap;
+}
+
+#logo img {
+    padding-right: 5%;
+    height: 50%;
+    width: auto;
+}
+
+.registration {
+    height: 80%;
+    border: 0.5px solid var(--grey);
+    border-radius: 5px;
+    background-color: inherit;
+    padding: 0 1%;
+}
+
+
+#hamburger {
+    display: none;
+    justify-self: right;
+    align-self: center;
+    width: 10%;
+    color: white;
+}
+
+#hamburger img {
+    width: 70%;
+    height: auto;
+    color: white;
+}
+
+@media (max-width: 850px) {
+    .menu-wrapper {
+        display: none;
+    }
+
+    #hamburger {
+        display: block;
+    }
+}

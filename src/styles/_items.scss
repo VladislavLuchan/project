@@ -1,0 +1,126 @@
+
+
+.products {
+    padding-top: 2%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+
+.products-categories {
+    width: 88%;
+    margin: auto;
+}
+
+.selected {
+    width: 100;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.spec {
+    text-align: center;
+    /* min-width: 5%; */
+    /* max-width: 150px; */
+    width: auto;
+    white-space: nowrap;
+    margin-right: 2%;
+    // background-color: var(--green);
+    padding: 0.5% 2%;
+}
+
+.products-grid {
+    // overflow: hidden;
+    margin: auto;
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.box {
+    display: flex;
+    padding: 2%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4%;
+    width: 28%;
+    height: 42%;
+    text-align: center;
+    // -webkit-box-shadow: 3px 2px 20px 0px rgba(0, 0, 0, 0.05);
+    // -moz-box-shadow: 3px 2px 20px 0px rgba(0, 0, 0, 0.05);
+    // box-shadow: 3px 2px 20px 0px rgba(0, 0, 0, 0.05);
+
+    .box-img {
+        width: 14rem;
+        height: 15rem;
+        background-size: cover;
+        background-position: center;
+        overflow: hidden;
+    }
+    
+    .box-text {
+        padding-top: 3%;
+    }
+
+    transition: all .2s ease-in-out;
+
+    &:hover {
+        transform: scale(1.1);
+        cursor: pointer;
+    }
+    
+}
+
+@media (max-width: 600px) {
+    .products {
+        width: 100%;
+        margin: auto;
+    }
+
+    .products-grid {
+        width: 100%;
+        margin: auto;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .box {
+        text-align: center;
+        width: 34%;
+        height: 40%;
+
+        .box-img {
+            width: 10em;
+            height: 12em;
+        }
+        // displway: flex;
+        // flex-direction: column;
+        // .box-img {
+        //     width: 250px;
+        //     height: 400px;
+        //     overflow: hidden;
+        // }
+
+        .box-text {
+            white-space: nowrap;
+        }
+    }
+}
+
+@media (min-width: 600px) and (max-width: 1050px) {
+    .products-grid {
+        width: 90%;
+        margin: auto;
+    }
+
+    .box {
+        width: 46%;
+    }
+
+    .box-img {
+        width: 15em;
+        height: 17em;
+    }
+}

@@ -1,0 +1,65 @@
+@media (max-width: 850px) {
+    .sidebar {
+        display: none;
+        width: 40%;
+    }
+}
+
+.sidebar {
+    width: 20%;
+    background-color: var(--sidebar_bg);
+}
+
+.side-el {
+    width: 80%;
+    margin: auto;
+    padding-top: 10%;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 1%;
+    /* width: 230px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 12px; */
+}
+
+.side-bar_item {
+    display: flex;
+    align-items: center;
+    font-size: 0.6em;
+    font-weight: 600;
+    color: var(--header_bg);
+    padding: 2px 0;
+}
+
+.side-bar_button {
+    background-color: var(--grey);
+    border-width: 0;
+    height: 13px;
+    width: 13px;
+    border-radius: 2px;
+    margin-right: 6px;
+}
+
+.pressed {
+    background-color: var(--green);
+}
+
+.side-bar_item>input {
+    width: 30%;
+    height: 12px;
+    border: 1px solid var(--grey);
+    border-radius: 3px;
+    padding: 4px;
+    margin: 0 6px;
+}
+
+.price>input {
+    width: 100%;
+    margin-top: 10px;
+}
+

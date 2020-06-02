@@ -1,0 +1,62 @@
+@import 'header';
+@import 'sidebar';
+@import 'items';
+@import 'item';
+
+:root {
+    --header_bg: #333333;
+    --sidebar_bg: #F2F2F2;
+    --grey: #B5B1B1;
+    --green: #0FC05C;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: montserrat;
+}
+
+.pointer {
+    width: 12px;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+#root {
+    height: 100%;
+    width: 100%;
+}
+
+main {
+    width: 100%;
+    display: flex;
+}
+
+.add-btn {
+    width: 100%;
+    background-color: #FBC0C0;
+    color: #000;
+    padding: 3% 3%;
+    border: none;
+    border-radius: 11px;
+    font-weight: 600;
+
+    &:hover {
+        cursor: pointer;
+        background-color: darken($color: #FBC0C0, $amount: 1);
+    }
+}
+
+li {
+    list-style: none;
+}
+
+
+a {
+    text-decoration: none;
+    color: inherit;
+}

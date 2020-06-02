@@ -1,0 +1,289 @@
+[
+  {
+	  
+	"category": "iphone", 
+    "name": "Iphone 11",
+    "priceUA": 20000,
+    "priceUS": 710,
+    "priceEUR": 665,
+    "display": 6.1,
+    "colors": [
+      "red",
+      "blue",
+      "purple",
+      "yellow",
+	  "space-gray"
+    ],
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6510857_0.jpg"
+  },
+  {
+	"category": "iphone",  
+    "name": "Iphone 11 Pro",
+	"priceUA": 23000,
+    "priceUS": 810,
+    "priceEUR": 760,
+    "display": 5.2,
+    "colors": ["space-gray", "white","space-green"],
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6510890_0.jpg"
+  },
+  {
+	  
+	"category": "iphone",  
+    "name": "Iphone XS Max",
+    "priceUA": 20000,
+    "priceUS": 710,
+    "priceEUR": 665,
+    "display": 7,
+    "colors": ["space-gray", "white","gold"],
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6423073_3.jpg"
+  },
+  {
+	
+	"category": "iphone",  
+	"name": "Iphone XS",
+    "priceUA": 15000,
+    "priceUS": 535,
+    "priceEUR": 500,
+    "display": 5.2,
+    "colors": ["space-gray", "white", "gold"],
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6423073_0.jpg"
+	
+  },
+  {
+	
+	"category": "iphone",
+	"name": "Iphone X",
+    "priceUA": 12000,
+    "priceUS": 430,
+    "priceEUR": 400,
+    "display": 5.2,
+    "colors": ["space-gray", "white"],
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6423073_4.jpg"
+	
+  },
+  {
+	
+	"category": "iphone",
+	"name": "Iphone 8+",
+    "priceUA": 10000,
+    "priceUS": 360,
+    "priceEUR": 330,
+    "display": 5.5,
+    "colors": ["space-gray", "white", "gold","product red"],
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6363121_0.jpg"
+	
+  },
+  {
+	
+	"category": "iphone",
+	"name": "Iphone 8",
+    "priceUA": 8000,
+    "priceUS": 285,
+    "priceEUR": 265,
+    "display": 4.7,
+    "colors": ["space-gray", "white", "gold","product red"],
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6363117_0.jpg"
+	
+  },
+  {
+	
+	"category": "iphone",
+	"name": "Iphone 7+",
+    "priceUA": 8000,
+    "priceUS": 285,
+    "priceEUR": 265,
+    "display": 5.5,
+    "colors": ["space-gray", "white", "gold","product red"],
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6307829_0.jpg"
+	
+  },
+  {
+	
+	"category": "iphone",
+	"name": "Iphone 7",
+    "priceUA": 6000,
+    "priceUS": 215,
+    "priceEUR": 200,
+    "display": 4.7,
+    "colors": ["space-gray", "white", "gold","product red"],
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6307817_0.jpg"
+	
+  }, 
+  {
+	
+	"category": "iphone",
+	"name": "Iphone 6+",
+    "priceUA": 5000,
+    "priceUS": 180,
+    "priceEUR": 165,
+    "display": 5.5,
+    "colors": ["space-gray", "silver"],
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6561846_3.jpg"
+	
+  },
+  {
+	
+	"category": "iphone",
+	"name": "Iphone 6s",
+    "priceUA": 4000,
+    "priceUS": 140,
+    "priceEUR": 130,
+    "display": 4.7,
+    "colors": ["space-gray", "silver","gold"],
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6561844_3.jpg"
+	
+  },
+  {
+	
+	"category": "iphone",
+	"name": "Iphone 6",
+    "priceUA": 3000,
+    "priceUS": 110,
+    "priceEUR": 100,
+    "display": 4.7,
+    "colors": ["space-gray", "silver","gold"],
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6307827_0.jpg"
+	
+  },
+  {
+	  
+	"category": "iphone",
+	"name": "Iphone se",
+    "priceUA": 3000,
+    "priceUS": 110,
+    "priceEUR": 100,
+    "display": 4.2,
+    "colors": ["space-gray", "silver","gold"],
+    "img": "https://htstatic.imgsmail.ru/pic_original/d916dc570dd9cb4197039b6cc6fab6ff/1333967/"
+	
+  },
+  {
+	  
+	"category": "iphone",
+	"name": "Iphone 5s",
+    "priceUA": 2000,
+    "priceUS": 70,
+    "priceEUR": 60,
+    "display": 4.2,
+    "colors": ["space-gray", "silver","gold"],
+    "img": "https://htstatic.imgsmail.ru/pic_original/127f79405091af4bf8dd1b3f1b4ec32b/1333966/"
+	
+  },
+  {
+	  
+	"category": "iphone",
+	"name": "Iphone 5",
+    "priceUA": 1500,
+    "priceUS": 53,
+    "priceEUR": 50,
+    "display": 4.7,
+    "colors": ["black", "silver"],
+    "img": "https://htstatic.imgsmail.ru/pic_original/57749992afff1d42fb41d400cb6c584c/1333498/"
+	
+  },
+  {
+	  
+	"category": "airpods",
+	"name": "Airpods 1",
+    "priceUA": 3000,
+    "priceUS": 110,
+    "priceEUR": 100,
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6474409_2.jpg"
+	
+  },
+  {
+	  
+	"category": "airpods",
+	"name": "Airpods 2",
+    "priceUA": 4000,
+    "priceUS": 140,
+    "priceEUR": 130,
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6474406_0.jpg"
+	
+  },
+  {
+	  
+	"category": "airpods",
+	"name": "Airpods Pro",
+    "priceUA": 6000,
+    "priceUS": 215,
+    "priceEUR": 200,
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6523099_0.jpg"
+	
+  },
+  {
+	  
+	"category": "ipad",
+	"name": "Ipad 10.2",
+    "priceUA": 10106,
+    "priceUS": 375,
+    "priceEUR": 350,
+    "display": 10.2,
+    "colors": ["space-gray"],
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6510900_0.jpg"
+	
+  },
+  {
+	  
+	"category": "ipad",
+	"name": "Ipad Pro 11",
+    "priceUA": 21800,
+    "priceUS": 810,
+    "priceEUR": 770,
+    "display": 11,
+    "colors": ["space-gray"],
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6441510_0.jpg"
+	
+  },
+  {
+	  
+	"category": "ipad",
+	"name": "Ipad Air 10.5",
+    "priceUA": 15065,
+    "priceUS": 560,
+    "priceEUR": 540,
+    "display": 10.5,
+    "colors": ["space-gray"],
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6472192_0.jpg"
+	
+  },
+  {
+	  
+	"category": "ipad",
+	"name": "Ipad Pro 12.9",
+    "priceUA": 33100,
+    "priceUS": 1230,
+    "priceEUR": 1195,
+    "display": 10.2,
+    "colors": ["space-gray"],
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6561209_0.jpg"
+	
+  },
+	{
+	  
+	"category": "macbook",
+	"name": "Macbook (MXK32)",
+    "priceUA": 44400,
+    "priceUS": 1650,
+    "priceEUR": 1600,
+    "display": 13,
+    "colors": ["space-gray"],
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6570047_0.jpg"
+	
+  },
+  {
+	  
+	"category": "macbook",
+	"name": "Macbook (MXK32)",
+    "priceUA": 44400,
+    "priceUS": 1650,
+    "priceEUR": 1600,
+    "display": 13,
+    "colors": ["space-gray"],
+    "img": "https://i1.foxtrot.com.ua/product/MediumImages/6531684_0.jpg"
+	
+  }
+	
+	
+	
+]
