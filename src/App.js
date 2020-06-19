@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  BrowserRouter as Router,
+  HashRouter,
   Switch,
   Route
 } from "react-router-dom";
@@ -19,7 +19,7 @@ function App() {
   return (
     <СonfigProvider>
     <ItemsProvider >
-      <Router>
+      <HashRouter basename="/">
       <Header />
       <Switch>
           <Route exact path="/">
@@ -32,7 +32,7 @@ function App() {
             <ExactItem />
           </Route>
         </Switch>
-      </Router>
+      </HashRouter>
     </ItemsProvider>
     </СonfigProvider>
   );
