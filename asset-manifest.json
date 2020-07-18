@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/project/static/css/main.6b80c222.chunk.css",
-    "main.js": "/project/static/js/main.601be11b.chunk.js",
-    "main.js.map": "/project/static/js/main.601be11b.chunk.js.map",
+    "main.css": "/project/static/css/main.ec1fd55e.chunk.css",
+    "main.js": "/project/static/js/main.2e0105f3.chunk.js",
+    "main.js.map": "/project/static/js/main.2e0105f3.chunk.js.map",
     "runtime-main.js": "/project/static/js/runtime-main.a518b999.js",
     "runtime-main.js.map": "/project/static/js/runtime-main.a518b999.js.map",
-    "static/js/2.38648343.chunk.js": "/project/static/js/2.38648343.chunk.js",
-    "static/js/2.38648343.chunk.js.map": "/project/static/js/2.38648343.chunk.js.map",
+    "static/js/2.323c9214.chunk.js": "/project/static/js/2.323c9214.chunk.js",
+    "static/js/2.323c9214.chunk.js.map": "/project/static/js/2.323c9214.chunk.js.map",
     "index.html": "/project/index.html",
-    "precache-manifest.cc36a21324a7a7a93877e76fe1b6fffe.js": "/project/precache-manifest.cc36a21324a7a7a93877e76fe1b6fffe.js",
+    "precache-manifest.f489f8a9d8a428e0b87e8fce9b9a37d8.js": "/project/precache-manifest.f489f8a9d8a428e0b87e8fce9b9a37d8.js",
     "service-worker.js": "/project/service-worker.js",
-    "static/css/main.6b80c222.chunk.css.map": "/project/static/css/main.6b80c222.chunk.css.map",
-    "static/js/2.38648343.chunk.js.LICENSE.txt": "/project/static/js/2.38648343.chunk.js.LICENSE.txt",
+    "static/css/main.ec1fd55e.chunk.css.map": "/project/static/css/main.ec1fd55e.chunk.css.map",
+    "static/js/2.323c9214.chunk.js.LICENSE.txt": "/project/static/js/2.323c9214.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/project/static/media/SF-Pro-Text-Semibold.9b1cbed4.otf",
     "static/media/apple.svg": "/project/static/media/apple.3ab222ed.svg",
     "static/media/arrow.svg": "/project/static/media/arrow.37e10b46.svg",
     "static/media/list.svg": "/project/static/media/list.bb88c605.svg",
     "static/media/supermarket.svg": "/project/static/media/supermarket.dd212d39.svg",
-    "static/media/toggle.svg": "/project/static/media/toggle.3f3ac5fd.svg"
+    "static/media/toggle.svg": "/project/static/media/toggle.3f3ac5fd.svg",
+    "static/media/toggleDown.svg": "/project/static/media/toggleDown.2be4f31c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a518b999.js",
-    "static/js/2.38648343.chunk.js",
-    "static/css/main.6b80c222.chunk.css",
-    "static/js/main.601be11b.chunk.js"
+    "static/js/2.323c9214.chunk.js",
+    "static/css/main.ec1fd55e.chunk.css",
+    "static/js/main.2e0105f3.chunk.js"
   ]
 }
